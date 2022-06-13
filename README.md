@@ -3,10 +3,13 @@
   <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200" /></a>
   <br>
     <br>
-  Yaadota 33 Developperiin Javascript Kamiyyuu Beekuu Qabu
+  Yaadota 33 Developpariin Javascript Kamiyyuu Beekuu Qabu
   <br><br>
 </h1>
-![Follow Me on Twitter](https://twitter.com/Aman_Dagne) <br />
+    
+[Follow Me on Twitter](https://twitter.com/Aman_Dagne) <br />
+
+    
 ## Seensa
 
 Kuusaan kun kan uumame develoopparoonni yaad-rimee isaanii JaavaScript keessatti akka qabaatan gargaaruuf yaadamee ture. Ulaagaa osoo hin taane, qajeelfama qorannoo gara fuula duraati. Barreeffama [Isteefan Kurtis](https://twitter.com/stephenthecurt) barreesse irratti hundaa'ee barreeffame. Guutummaa Biloogii isaa [Asii](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) dubbisuu dandeessu.
@@ -29,12 +32,12 @@ Hiikkaawwan kuusaa kanaa hundinuu kanaa gaditti tarreeffamanii jiru:
 - [Afaan Raashiyaa](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
 - [Afaan Veetnaam](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
 - [Afaan Poolaand (Polish)](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
-- [فارسی (Persian)](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
+-[Afaan Peershiyaa](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
 - [Afaan Indooneezhiyaa](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
 - [Afaan Faransaay](https://github.com/robinmetral/33-concepts-js) — Robin Métral
 - [Afaan Hindii](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
 - [Afaan Giriikii](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
-- [afaan Jaappaan](https://github.com/oimo23/33-js-concepts) — oimo23
+- [Afaan Jaappaan](https://github.com/oimo23/33-js-concepts) — oimo23
 - [Afaan Jarman](https://github.com/burhannn/33-js-concepts) — burhannn
 - [Afaan Yuukireeen](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
 - [Afaan Siri laankaa](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
