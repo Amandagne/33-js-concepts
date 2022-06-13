@@ -11,13 +11,13 @@
 
 Kuusaan kun kan uumame develoopparoonni yaad-rimee isaanii JaavaScript keessatti akka qabaatan gargaaruuf yaadamee ture. Ulaagaa osoo hin taane, qajeelfama qorannoo gara fuula duraati. Barreeffama [Isteefan Kurtis](https://twitter.com/stephenthecurt) barreesse irratti hundaa'ee barreeffame. Guutummaa Biloogii isaa [Asii](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) dubbisuu dandeessu.
 
-**🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+**🚀 Akka Github tti piroojektiin kun [piroojektoota oppen soorsii gurguddaa kuchan kan bara 2018 keessaa tokko dha!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
 ## Hawaasa
 
-Feel free to submit a PR adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
-
-All the translations for this repo will be listed below:
+Yaada irra deebii keessan ykn gamaaggama mataa keessanii irratti laattaniif link keessan kaa'uu dandeessu. Repo(Kuusaa) kana gara afaan dhaloota keessaniitti hiikuu yoo barbaaddanis ni dandeessu.
+    
+Hiikkaawwan kuusaa kanaa hundinuu kanaa gaditti tarreeffamanii jiru:
 
 - [Shqip (Albanian)](https://github.com/eldrinf/33-js-concepts-albanian.git) — Eldrin Ereqi
 - [اَلْعَرَبِيَّةُ‎ (Arabic)](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
