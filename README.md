@@ -6,7 +6,7 @@
   Yaadota 33 Developperiin Javascript Kamiyyuu Beekuu Qabu
   <br><br>
 </h1>
-[![Follow Me on Twitter](https://twitter.com/Aman_Dagne)]
+![Follow Me on Twitter](https://twitter.com/Aman_Dagne) <br />
 ## Seensa
 
 Kuusaan kun kan uumame develoopparoonni yaad-rimee isaanii JaavaScript keessatti akka qabaatan gargaaruuf yaadamee ture. Ulaagaa osoo hin taane, qajeelfama qorannoo gara fuula duraati. Barreeffama [Isteefan Kurtis](https://twitter.com/stephenthecurt) barreesse irratti hundaa'ee barreeffame. Guutummaa Biloogii isaa [Asii](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) dubbisuu dandeessu.
