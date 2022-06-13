@@ -19,7 +19,7 @@ Yaada irra deebii keessan ykn gamaaggama mataa keessanii irratti laattaniif liin
     
 Hiikkaawwan kuusaa kanaa hundinuu kanaa gaditti tarreeffamanii jiru:
 
-- [Shqip (Albanian)](https://github.com/eldrinf/33-js-concepts-albanian.git) — Eldrin Ereqi
+- [Afaan Albaaniyaa](https://github.com/eldrinf/33-js-concepts-albanian.git) — Eldrin Ereqi
 - [اَلْعَرَبِيَّةُ‎ (Arabic)](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
 - [汉语 (Chinese)](https://github.com/stephentian/33-js-concepts) — Re Tian
 - [Português do Brasil (Brazilian Portuguese) ](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
