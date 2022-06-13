@@ -11,11 +11,11 @@
 
 Kuusaan kun kan uumame develoopparoonni yaad-rimee isaanii JaavaScript keessatti akka qabaatan gargaaruuf yaadamee ture. Ulaagaa osoo hin taane, qajeelfama qorannoo gara fuula duraati. Barreeffama [Isteefan Kurtis](https://twitter.com/stephenthecurt) barreesse irratti hundaa'ee barreeffame. Guutummaa Biloogii isaa [Asii](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) dubbisuu dandeessu.
 
-**🚀 Akka Github tti piroojektiin kun [piroojektoota oppen soorsii gurguddaa kuchan kan bara 2018 keessaa tokko dha!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+**🚀 Akka Github tti piroojektiin kun [piroojektoota oppen soorsii gurguddaa kudhan kan bara 2018 keessaa tokko dha!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
 ## Hawaasa
 
-Yaada irra deebii keessan ykn gamaaggama mataa keessanii irratti laattaniif link keessan kaa'uu dandeessu. Repo(Kuusaa) kana gara afaan dhaloota keessaniitti hiikuu yoo barbaaddanis ni dandeessu.
+Yaada irra deebii keessan ykn gamaaggama mataa keessanii irratti laattaniif liinkii keessan kaa'uu dandeessu. Repo(Kuusaa) kana gara afaan dhaloota keessaniitti hiikuu yoo barbaaddanis ni dandeessu.
     
 Hiikkaawwan kuusaa kanaa hundinuu kanaa gaditti tarreeffamanii jiru:
 
