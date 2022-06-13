@@ -27,28 +27,28 @@ Hiikkaawwan kuusaa kanaa hundinuu kanaa gaditti tarreeffamanii jiru:
 - [Ispaanishii](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
 - [Afaan Turkii](https://github.com/ilker0/33-js-concepts) — İlker Demir
 - [Afaan Raashiyaa](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
-- [Tiếng Việt (Vietnamese)](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
-- [Polski (Polish)](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
+- [Afaan Veetnaam](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
+- [Afaan Poolaand (Polish)](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
 - [فارسی (Persian)](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
-- [Bahasa Indonesia (Indonesian)](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
-- [Français (French)](https://github.com/robinmetral/33-concepts-js) — Robin Métral
-- [हिन्दी (Hindi)](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
-- [Ελληνικά (Greek)](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
-- [日本語 (Japanese)](https://github.com/oimo23/33-js-concepts) — oimo23
-- [Deutsch (German)](https://github.com/burhannn/33-js-concepts) — burhannn
-- [украї́нська мо́ва (Ukrainian)](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
-- [සිංහල (Sinhala)](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
-- [Italiano (Italian)](https://github.com/Donearm/33-js-concepts) — Gianluca Fiore
-- [Malagasy (Madagascar)](https://github.com/chrys-elrak/33-js-concepts) — Chrys Rakotonimanana
+- [Afaan Indooneezhiyaa](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
+- [Afaan Faransaay](https://github.com/robinmetral/33-concepts-js) — Robin Métral
+- [Afaan Hindii](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
+- [Afaan Giriikii](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
+- [afaan Jaappaan](https://github.com/oimo23/33-js-concepts) — oimo23
+- [Afaan Jarman](https://github.com/burhannn/33-js-concepts) — burhannn
+- [Afaan Yuukireeen](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
+- [Afaan Siri laankaa](https://github.com/ududsha/33-js-concepts) — Udaya Shamendra
+- [Afaan Xaaliyaanii](https://github.com/Donearm/33-js-concepts) — Gianluca Fiore
+- [Afaan Maadagaaskaar](https://github.com/chrys-elrak/33-js-concepts) — Chrys Rakotonimanana
 
 ---
 
 ## <a id="table-of-contents">Baafata</a>
 
-1. **[Call Stack](#1-call-stack)**
-2. **[Primitive Types](#2-primitive-types)**
-3. **[Value Types and Reference Types](#3-value-types-and-reference-types)**
-4. **[Implicit, Explicit, Nominal, Structuring and Duck Typing](#4-implicit-explicit-nominal-structuring-and-duck-typing)**
+1. **[Waamicha Tuullaa](#1-call-stack)**
+2. **[Gosoota Jalqabaa](#2-primitive-types)**
+3. **[Akaakuuwwan Gatii fi Akaakuuwwan Wabii](#3-value-types-and-reference-types)**
+4. **[](#4-implicit-explicit-nominal-structuring-and-duck-typing)**
 5. **[== vs === vs typeof](#5--vs--vs-typeof)**
 6. **[Function Scope, Block Scope and Lexical Scope](#6-function-scope-block-scope-and-lexical-scope)**
 7. **[Expression vs Statement](#7-expression-vs-statement)**
