@@ -20,13 +20,13 @@ Yaada irra deebii keessan ykn gamaaggama mataa keessanii irratti laattaniif liin
 Hiikkaawwan kuusaa kanaa hundinuu kanaa gaditti tarreeffamanii jiru:
 
 - [Afaan Albaaniyaa](https://github.com/eldrinf/33-js-concepts-albanian.git) — Eldrin Ereqi
-- [اَلْعَرَبِيَّةُ‎ (Arabic)](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
-- [汉语 (Chinese)](https://github.com/stephentian/33-js-concepts) — Re Tian
-- [Português do Brasil (Brazilian Portuguese) ](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
-- [한국어 (Korean)](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
-- [Español (Spanish)](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
-- [Türkçe (Turkish)](https://github.com/ilker0/33-js-concepts) — İlker Demir
-- [русский язык (Russian)](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
+- [Afaan Arabaa](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
+- [Afaan Chaayinaa](https://github.com/stephentian/33-js-concepts) — Re Tian
+- [Afaan Poortugaal Biraazil](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
+- [Afaan Kooriyaa](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
+- [Ispaanishii](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
+- [Afaan Turkii](https://github.com/ilker0/33-js-concepts) — İlker Demir
+- [Afaan Raashiyaa](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
 - [Tiếng Việt (Vietnamese)](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
 - [Polski (Polish)](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
 - [فارسی (Persian)](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
