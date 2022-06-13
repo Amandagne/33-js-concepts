@@ -43,7 +43,7 @@ Hiikkaawwan kuusaa kanaa hundinuu kanaa gaditti tarreeffamanii jiru:
 
 ---
 
-## <a id="table-of-contents">Table of Contents</a>
+## <a id="table-of-contents">Baafata</a>
 
 1. **[Call Stack](#1-call-stack)**
 2. **[Primitive Types](#2-primitive-types)**
