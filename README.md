@@ -6,10 +6,10 @@
   Yaadota 33 Developperiin Javascript Kamiyyuu Beekuu Qabu
   <br><br>
 </h1>
-
+[!Follow Me on Twitter](https://twitter.com/Aman_Dagne)
 ## Seensa
 
-Kuusaan kun kan uumame develoopparoonni yaad-rimee isaanii JaavaScript keessatti akka qabaatan gargaaruuf yaadamee ture. Ulaagaa osoo hin taane, qajeelfama qorannoo gara fuula duraati. Barreeffama [Isteefan Kurtis](https://twitter.com/stephenthecurt) barreesse irratti hundaa'ee barreeffame. [Asii](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) dubbisuu dandeessu.
+Kuusaan kun kan uumame develoopparoonni yaad-rimee isaanii JaavaScript keessatti akka qabaatan gargaaruuf yaadamee ture. Ulaagaa osoo hin taane, qajeelfama qorannoo gara fuula duraati. Barreeffama [Isteefan Kurtis](https://twitter.com/stephenthecurt) barreesse irratti hundaa'ee barreeffame. Guutummaa Biloogii isaa [Asii](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1) dubbisuu dandeessu.
 
 **🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
